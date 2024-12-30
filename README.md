@@ -64,7 +64,7 @@ Dicas
 
 
 
-##canais de denúncia, delegacias, canais de atendimento/ouvidorias
+## canais de denúncia, delegacias, canais de atendimento/ouvidorias
 
 ### **1. SaferNet Brasil**  
 **Site:** [https://www.safernet.org.br](https://www.safernet.org.br)  
@@ -2302,7 +2302,7 @@ Após a vítima fornecer dados como o WhatsApp ou e-mail, o golpista pode realiz
 
 [veja o artigo no completo no linkedin](https://www.linkedin.com/pulse/como-funciona-os-golpes-facebook-e-sua-estrutura-rebello-santos-ol7ne/)
 
-###Golpe de "investimentos milagrosos"
+### Golpe de "investimentos milagrosos"
 **Golpe de "investimentos milagrosos"** é uma fraude em que os criminosos prometem retornos financeiros extraordinários e rápidos, muitas vezes envolvendo **day trade**, **fundos imobiliários**, **ações** ou outros tipos de investimentos. Eles atraem as vítimas com promessas de ganhos fáceis e rápidos, geralmente por meio de plataformas de investimento fraudulentas.
 
 ### Como Funciona:
